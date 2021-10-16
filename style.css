@@ -1,0 +1,28 @@
+#oorgle{
+    font-size: 45px;
+    font-family: 'Creepster';
+}
+
+#spanny{
+    font-size: 30px;
+    font-family: Sacramento;
+}
+
+.oorg{
+    float:left;
+    margin-left: 30px;
+    font-size: 40px;
+    font-family: 'Sacramento';
+}
+
+.oorgi{
+    float:right;
+    margin-right: 30px;
+    font-size: 40px;
+    font-family: 'Sacramento';
+}
+
+canvas{
+    border: 5px ridge crimson;
+    background-image: linear-gradient(to right, deeppink, darkorchid, black)
+}
